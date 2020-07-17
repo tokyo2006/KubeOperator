@@ -1,6 +1,9 @@
 # KubeOperator – Hop onto the sailing of Kubernetes
 
-[![License](http://img.shields.io/badge/license-apache%20v2-blue.svg)](https://github.com/KubeOperatpr/KubeOperatpr/blob/master/LICENSE)
+[![License](http://img.shields.io/badge/license-apache%20v2-blue.svg)](https://github.com/kubeoperator/kubeoperator/blob/master/LICENSE)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kubeoperator/kubeoperator)](https://github.com/kubeoperator/kubeoperator/releases/latest)
+
+> [中文](README.md) | English
 
 ## What is KubeOperator?
 
@@ -12,7 +15,7 @@ KubeOperator uses Terraform to auto-build infrastructure on LaaS platform (vSphe
 
 The following image is the whole architecture of KubeOperator:
 
-![Architecture](https://kubeoperator.io/images/screenshot/ko-framework.svg) (or the new translated one)
+![Architecture](https://kubeoperator.io/images/screenshot/ko-framework.svg) 
 
 > Note: KubeOperator passed the [Certified Kubernetes Conformance Program] (https://landscape.cncf.io/selected=kube-operator) provided by CNCF (Cloud Native Computing Foundation)
 
@@ -20,7 +23,7 @@ The following image is the whole architecture of KubeOperator:
 
 ![Web UI](https://kubeoperator.io/images/screenshot/6.png)
 
-> [More features screenshot of KubeOperator](https://docs.kubeoperator.io/kubeoperator-v2.2/screenshot)
+> [More features screenshot of KubeOperator](https://kubeoperator.io/features.html)
 
 ## Technology Advantages
 

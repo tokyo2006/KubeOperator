@@ -242,9 +242,8 @@ Complete Roadmap of versions history : [Roadmap](https://github.com/KubeOperator
 
 ## Community (Currently it’s only supported in Chinese)
 
-- technical exchange QQ 群：825046920
+- QQ group：825046920
 - WeChat group： Search for WeChat ID wzk727912172，add friend，Remarks（City-GitHub username）, join in after verification
-- technical consulting：https://jinshuju.net/f/QrZJpt
 
 ## Thanks to (Credits)
 

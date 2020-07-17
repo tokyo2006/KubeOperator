@@ -8,7 +8,7 @@ KubeOperator is an open-source light-weighted Kubernetes distribution that focus
 
 ## How it works?
 
-KubeOperator uses Terraform to auto-build infrastructure on LaaS platform (vSphere, OpenStack, user can also use their resources, e.g. VMs or On-premise). It also implements automated deployment and allows changing operation through Ansible, supporting Kubernetes clusters a full life-cycle self-defined management from Day 0 planning, Day 1 deployment, to Day 2 operating. KubeOperator really achieves the idea of Kubernetes as a service.
+KubeOperator uses Terraform to auto-build infrastructure on LaaS platform (vSphere, OpenStack, user can also use their resources, e.g. VMs or On-premise). It also implements automated deployment and allows changing operation through Ansible, supporting Kubernetes clusters a full life-cycle self-defined management from Day 0 planning, Day 1 deployment, to Day 2 operating. 
 
 The following image is the whole architecture of KubeOperator:
 
@@ -237,10 +237,6 @@ Complete Roadmap of versions history : [Roadmap](https://github.com/KubeOperator
 : Clearly explain the functionality of KubeOperator (maybe someone makes an English version?)
 -  [:books: Installation & Doc](https://docs.kubeoperator.io/) : Docs about How to install KubeOperator, How to use, Features, Common Q&A etc
 
-## Kubernetes offline installation package
-
-KubeOperator provides a complete offline installation package (includes Kubernetes, Docker, etcd, Dashboard, Prometheus, OS patches, etc). Each installation package will be built as an independent container image for use by KubeOperator. Details : [k8s-package](https://github.com/KubeOperator/k8s-package)
-
 ## Community (Currently it’s only supported in Chinese)
 
 - technical exchange QQ 群：825046920
@@ -252,7 +248,6 @@ KubeOperator provides a complete offline installation package (includes Kubernet
 - [Terraform](https://github.com/hashicorp/terraform): Allowing to auto-build VMs；
 - [Clarity](https://github.com/vmware/clarity/): Using as a front-end web framework；
 - [Ansible](https://github.com/ansible/ansible): Using as an automated deployment tool；
-- [kubeasz](https://github.com/easzlab/kubeasz): Providing various Kubernetes Ansible scripts；
 - [Kubeapps](https://github.com/kubeapps/kubeapps): Creating a marketplace based on Kubeapps；
 
 ## License

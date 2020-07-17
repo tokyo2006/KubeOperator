@@ -1,7 +1,7 @@
 # KubeOperator - 从这里开启您的 Kubernetes 之旅
 
 [![License](http://img.shields.io/badge/license-apache%20v2-blue.svg)](https://github.com/kubeoperator/kubeoperator/blob/master/LICENSE)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/metersphere/metersphere)](https://github.com/kubeoperator/kubeoperator/releases/latest)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kubeoperator/kubeoperator)](https://github.com/kubeoperator/kubeoperator/releases/latest)
 
 > [English](README_EN.md) | 中文
 

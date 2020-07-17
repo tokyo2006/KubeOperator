@@ -35,7 +35,7 @@ The following image is the whole architecture of KubeOperator:
 - Self Repair: Through rebuilding malfunction node to confirm the usability of the cluster
 - Full-Stack Monitoring: Full record of events, monitoring, warning and journaling from node, pod, to cluster
 - Multi-AZ Support: Master nodes are distributed in different failure domain to make sure the high usability
-- Marketplace: built-in with KubeApps Plus marketplace. Able to deploy and manage common apps quickly
+- Marketplace: built-in with KubeApps marketplace. Able to deploy and manage common apps quickly
 - GPU Support: Support with GPU nodes which help operating high computation applications such as machine learning
 
 ## Features List

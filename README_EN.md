@@ -13,17 +13,7 @@ KubeOperator is an open-source light-weighted Kubernetes distribution that focus
 
 KubeOperator uses Terraform to auto-build infrastructure on LaaS platform (vSphere, OpenStack, user can also use their resources, e.g. VMs or On-premise). It also implements automated deployment and allows changing operation through Ansible, supporting Kubernetes clusters a full life-cycle self-defined management from Day 0 planning, Day 1 deployment, to Day 2 operating. 
 
-The following image is the whole architecture of KubeOperator:
-
-![Architecture](https://kubeoperator.io/images/screenshot/ko-framework.svg) 
-
 > Note: KubeOperator passed the [Certified Kubernetes Conformance Program] (https://landscape.cncf.io/selected=kube-operator) provided by CNCF (Cloud Native Computing Foundation)
-
-## Screenshot of the Web UI
-
-![Web UI](https://kubeoperator.io/images/screenshot/6.png)
-
-> [More features screenshot of KubeOperator](https://kubeoperator.io/features.html)
 
 ## Technology Advantages
 
@@ -231,19 +221,7 @@ The following image is the whole architecture of KubeOperator:
     </tr>    
  </table>
 
-Complete Roadmap of versions history : [Roadmap](https://github.com/KubeOperator/KubeOperator/blob/master/ROADMAP.md)
-
-## PowerPoint, Demo video, and Docs
-
--  [:books: PowerPoint]( ./KubeOperator_Intro.pdf) : Introduction of KubeOperator (should change the link to translated version)
--  [:tv: A short 8 mins demo]( https://kubeoperator-1256577600.file.myqcloud.com/video/KubeOperator2.1.mp4)
-: Clearly explain the functionality of KubeOperator (maybe someone makes an English version?)
--  [:books: Installation & Doc](https://docs.kubeoperator.io/) : Docs about How to install KubeOperator, How to use, Features, Common Q&A etc
-
-## Community (Currently it’s only supported in Chinese)
-
-- QQ group：825046920
-- WeChat group： Search for WeChat ID wzk727912172，add friend，Remarks（City-GitHub username）, join in after verification
+Complete Roadmap of versions history : [Roadmap](./ROADMAP.md)
 
 ## Thanks to (Credits)
 

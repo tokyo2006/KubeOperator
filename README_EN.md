@@ -17,16 +17,16 @@ KubeOperator uses Terraform to auto-build infrastructure on LaaS platform (vSphe
 
 ## Technology Advantages
 
-- Easy to Use: Using a visible Web UI that significantly lower down the difficulty of K8s deployment and management, built-in with Webkubectl.
-- Offline Support: Continue updating Kubernetes and common components of the offline pack
-- Build by demand: Calling cloud platform API, build and deploy Kubernetes cluster in just a click
-- Scale by demand: Swiftly scale Kubernetes clusters and improve resources utilization
-- Patch by demand: rapid update, patch Kubernetes cluster and being up to date with the community version
-- Self Repair: Through rebuilding malfunction node to confirm the usability of the cluster
-- Full-Stack Monitoring: Full record of events, monitoring, warning and journaling from node, pod, to cluster
-- Multi-AZ Support: Master nodes are distributed in different failure domain to make sure the high usability
-- Marketplace: built-in with KubeApps marketplace. Able to deploy and manage common apps quickly
-- GPU Support: Support with GPU nodes which help operating high computation applications such as machine learning
+- Easy to Use: Using a visible Web UI that significantly lower down the difficulty of K8s deployment and management, built-in with Webkubectl;
+- Offline Support: Continue updating Kubernetes and common components of the offline pack;
+- Build by demand: Calling cloud platform API, build and deploy Kubernetes cluster in just a click;
+- Scale by demand: Swiftly scale Kubernetes clusters and improve resources utilization;
+- Patch by demand: rapid update, patch Kubernetes cluster and being up to date with the community version;
+- Self Repair: Through rebuilding malfunction node to confirm the usability of the cluster;
+- Full-Stack Monitoring: Full record of events, monitoring, warning and journaling from node, pod, to cluster;
+- Multi-AZ Support: Master nodes are distributed in different failure domain to make sure the high usability;
+- Marketplace: built-in with KubeApps marketplace. Able to deploy and manage common apps quickly;
+- GPU Support: Support with GPU nodes which help operating high computation applications such as machine learning.
 
 ## Features List
 
@@ -226,7 +226,7 @@ KubeOperator uses Terraform to auto-build infrastructure on LaaS platform (vSphe
 - [Terraform](https://github.com/hashicorp/terraform): Allowing to auto-build VMs；
 - [Clarity](https://github.com/vmware/clarity/): Using as a front-end web framework；
 - [Ansible](https://github.com/ansible/ansible): Using as an automated deployment tool；
-- [Kubeapps](https://github.com/kubeapps/kubeapps): Creating a marketplace based on Kubeapps；
+- [Kubeapps](https://github.com/kubeapps/kubeapps): Creating a marketplace based on Kubeapps.
 
 ## License
 

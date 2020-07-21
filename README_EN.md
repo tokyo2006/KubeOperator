@@ -221,8 +221,6 @@ KubeOperator uses Terraform to auto-build infrastructure on LaaS platform (vSphe
     </tr>    
  </table>
 
-Complete Roadmap of versions history : [Roadmap](./ROADMAP.md)
-
 ## Thanks to (Credits)
 
 - [Terraform](https://github.com/hashicorp/terraform): Allowing to auto-build VMs；

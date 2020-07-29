@@ -85,10 +85,7 @@ Release Note:https://blog.fit2cloud.com/?p=1126
 - [ ] 支持 arm64 平台架构；
 - [ ] 使用 out-of-tree 的网络和存储插件；
 - [ ] 支持在线和离线安装模式；
-- [ ] 支持 Helm 3.x；
-- [ ] 支持 Traefik 2.x；
+- [ ] 组件升级，包括 Helm 3.x，Traefik 2.x，kubeapps；
 - [ ] 集成 cert-manager；
 - [ ] 支持 containerd；
-- [ ] 支持 kubernetes 跨版本升级；
-- [ ] 升级 kubeapps-plus 应用商店 (支持 Helm 3.x);
 - [ ] 支持已有集群导入。
